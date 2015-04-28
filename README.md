@@ -26,6 +26,6 @@ A definir
 | 5:30 PM | Comentários de Encerramento pelos organizadores |
 
 ### Organizadores
-Jean Lucas de Carvalho
-Fabrício Augusto
-Você
+- Jean Lucas de Carvalho
+- Fabrício Augusto
+- Você
