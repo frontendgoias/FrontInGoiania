@@ -35,4 +35,4 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 - Diogo Beda
 - Fabrício Augusto
 - Jean Lucas de Carvalho
-- Você
+- [Você](https://github.com/frontendgoias/FrontInGyn/issues/6)
