@@ -24,7 +24,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 | 2:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 2:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 3:30 PM | [Lanche](https://github.com/frontendgoias/FrontInGyn/issues/5) |
-| 4:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
+| 4:00 PM | Let things Flux naturally: the where, the why, and the how of Flux architecture and frameworks |
 | 4:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 5:30 PM | Comentários de Encerramento pelos organizadores |
 
