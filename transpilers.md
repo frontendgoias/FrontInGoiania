@@ -4,6 +4,7 @@ Ansiosos por uma linguagem de frontend mais clara, e ainda sem espectativas quan
 Essa palestra visa apresentar:
 
 * Uma visão geral sobre transpilers
-* Comparação (super) resumida de CoffeScript, TypeScript, Flowtype e Traceur
+* Comparação (super) resumida de CoffeScript, Traceur, TypeScript, Babel e Flowtype
+* Compatibilidades entre IDE's e transpilers
 * Uso de mapfiles
 * Desenvolvolvimento de transpilers
