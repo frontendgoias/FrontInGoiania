@@ -1,4 +1,4 @@
-# FrontInGyn
+# FrontInGoiânia
 
 Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento front-end goiano regado de muito networking através de palestras da comunidade para a comunidade.
 
@@ -6,7 +6,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 [A definir](https://github.com/frontendgoias/FrontInGyn/issues/1)
 
 ### Data
-12 de Setembro de 2015
+[A definir](https://github.com/frontendgoias/FrontInGoiania/issues/11)
 
 ### Ingressos
 [A definir](https://github.com/frontendgoias/FrontInGyn/issues/4)
