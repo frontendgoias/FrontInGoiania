@@ -6,7 +6,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 [A definir](https://github.com/frontendgoias/FrontInGyn/issues/1)
 
 ### Data
-[A definir](https://github.com/frontendgoias/FrontInGoiania/issues/11)
+[3 de Outubro de 2015](https://github.com/frontendgoias/FrontInGoiania/issues/11)
 
 ### Ingressos
 [A definir](https://github.com/frontendgoias/FrontInGyn/issues/4)
