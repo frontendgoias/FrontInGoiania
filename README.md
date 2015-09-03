@@ -3,13 +3,13 @@
 Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento front-end goiano regado de muito networking através de palestras da comunidade para a comunidade.
 
 ### Local
-[A definir](https://github.com/frontendgoias/FrontInGyn/issues/1)
+[CCBEU Jardim América - Rua C-243, nº 236, Jardim América - Goiânia - GO](https://github.com/frontendgoias/FrontInGyn/issues/1)
 
 ### Data
-[3 de Outubro de 2015](https://github.com/frontendgoias/FrontInGoiania/issues/11)
+[10 de Outubro de 2015](https://github.com/frontendgoias/FrontInGoiania/issues/11)
 
 ### Ingressos
-[A definir](https://github.com/frontendgoias/FrontInGyn/issues/4)
+[R$ 50,00](https://github.com/frontendgoias/FrontInGyn/issues/4)
 
 ### Talks
 | Horário | Track|
