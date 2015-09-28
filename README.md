@@ -18,7 +18,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 | 9:00 AM | Comentários de Abertura pelos organizadores |
 | 9:30 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 10:15 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
-| 11:00 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
+| 11:00 AM | [Programação Reativa com RxJS](https://github.com/edygar/FrontInGyn/rxjs.md) |
 | 11:45 AM | [Almoço](https://github.com/frontendgoias/FrontInGyn/issues/5) |
 | 1:15 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 2:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
