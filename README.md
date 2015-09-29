@@ -24,7 +24,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 | 2:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 2:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 3:30 PM | [Lanche](https://github.com/frontendgoias/FrontInGyn/issues/5) |
-| 4:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
+| 4:00 PM | [Asp.Net MVC 6 + TypeScript + Aurelia](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 4:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 5:30 PM | Comentários de Encerramento pelos organizadores |
 
