@@ -16,7 +16,7 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 | --------------: |-------------|
 | 8:00 AM | Credenciamento e [Café da manhã](https://github.com/frontendgoias/FrontInGyn/issues/5) |
 | 9:00 AM | Comentários de Abertura pelos organizadores |
-| 9:30 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
+| 9:30 AM | [Why functional programming matters?](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 10:15 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 11:00 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 11:45 AM | [Almoço](https://github.com/frontendgoias/FrontInGyn/issues/5) |
