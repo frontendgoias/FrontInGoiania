@@ -19,10 +19,10 @@ Evento com o objetivo de fortalecer e expandir o ecossistema de desenvolvimento 
 | 9:30 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 10:15 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 11:00 AM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
-| 11:45 AM | [Almoço](https://github.com/frontendgoias/FrontInGyn/issues/5) |
+| 11:45 AM | [Almoço](https://githuDb.com/frontendgoias/FrontInGyn/issues/5) |
 | 1:15 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 2:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
-| 2:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
+| 2:45 PM | [Talk TBD](A Lacuna entre Design e Desenvolvimento ) |
 | 3:30 PM | [Lanche](https://github.com/frontendgoias/FrontInGyn/issues/5) |
 | 4:00 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
 | 4:45 PM | [Talk TBD](https://github.com/frontendgoias/FrontInGyn/issues/2) |
